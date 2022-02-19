@@ -1,0 +1,19 @@
+{
+  "name": "image_processing_request",
+  "version": "0.0.1",
+  "description": "This is a project to process image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresnian/image_processing_request.git"
+  },
+  "author": "Eduardo Andres Nino Angarita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresnian/image_processing_request/issues"
+  },
+  "homepage": "https://github.com/andresnian/image_processing_request#readme"
+}
