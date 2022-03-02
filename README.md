@@ -13,7 +13,7 @@ El proyecto completo está diseñado para ser desplegado en entorno cloud, y par
 
 **Microservicio:** Nodejs, Typescript, NestJs, MongoDB
 
-
+**Lambda:** Python3, AWS, Boto3
 
 ## API Reference
 
