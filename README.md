@@ -11,9 +11,9 @@ El proyecto completo está diseñado para ser desplegado en entorno cloud, y par
 
 ## Tech Stack
 
-**Microservicio:** Nodejs, Typescript, NestJs, MongoDB
+**Microservicio:** Nodejs, npm, Typescript, NestJs, MongoDB, Docker
 
-**Lambda:** Python3, AWS, Boto3
+**Lambda:** Python3, AWS, Boto3, Docker
 
 ## API Reference
 
